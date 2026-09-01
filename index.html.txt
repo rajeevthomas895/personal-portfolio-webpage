@@ -35,7 +35,7 @@
         </a>
       </div>
     </section>
-    <secion id="connect">
+    <section id="connect">
       <h1>Let's Work Together</h1>
       <p>How do you take your coffee?</p>
       <div class="social-links">
